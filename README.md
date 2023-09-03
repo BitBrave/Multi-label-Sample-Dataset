@@ -1,7 +1,6 @@
 # Multi-label-Sample-Dataset
 
-Because the 15 file size is too large, and VPN and campus network are charged, we upload partial data (UNSW-NB15).
+There are 15 public malicious sample datasets after reconstruction. The sample is multi-labeled.
 
-We will upload the remaining datasets and our processing code as soon as possible.
+If you have any questions, please get in touch with us.
 
-If you have any questions, please contact us.
